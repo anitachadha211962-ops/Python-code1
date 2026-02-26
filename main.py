@@ -1,9 +1,9 @@
 print("Suraj")
 print(5+6)
-print("er")
+print(1)
 
 def greet(name):
-    return f"Hello Suraj, {name}!"
+    return f"Hi, {name}!"
 
 if __name__ == "__main__":
     print(greet("Suraj"))
