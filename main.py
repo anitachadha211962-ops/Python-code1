@@ -8,7 +8,7 @@ print(ab)
 
 print(f"Suraj is a good boy {9}")
 def greet(name):
-    return f"Hi, {name}!"
+    return f"Hello Suraj, {name}!"
 
 if __name__ == "__main__":
     print(greet("Suraj"))
