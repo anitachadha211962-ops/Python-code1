@@ -12,7 +12,7 @@ print(f"Suraj is a intelligent boy {10}")
 
 
 def greet(name):
-    return f"Hi, {name}!"
+    return f"Hello Suraj, {name}!"
 
 if __name__ == "__main__":
     print(greet("Suraj"))
